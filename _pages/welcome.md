@@ -5,11 +5,11 @@ permalink: /welcome/
 ---
 # Welcome to the Soft and Complex Biomaterials Lab
 
-We study the structure, assembly, and mechanics of soft biomaterials.
+We study the structure, assembly, and mechanics of soft natural materials.
 
 ## Why We Do What We Do
 We ask a simple but powerful question:
-Can we use Nature to inspire and transform modern technology?
+*Can we use Nature to inspire and transform modern technology?*
 Silk, with its remarkable strength, adaptability, and sustainability, is a compelling example of how biology can guide the design of advanced materials.
 
 ## How We Do It
