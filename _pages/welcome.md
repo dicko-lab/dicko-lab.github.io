@@ -18,11 +18,11 @@ This molecular-level insight helps us design, modify, and control biopolymer-bas
 
 ## What We Do
 Our research focuses on:
-•	**Understanding** molecular structures and self-assembly in silks and other biopolymers
-•	**Engineering** materials and scaffolds inspired by biological processes
-•	**Developing** enzyme platforms and nanozymes for innovative biochemical applications
-•	**Advancing** biofabrication and textile engineering through sustainable approaches
-•	**Sharing** data, tools, and methods openly to accelerate progress in biomaterials science
+- **Understanding** molecular structures and self-assembly in silks and other biopolymers
+- **Engineering** materials and scaffolds inspired by biological processes
+- **Developing** enzyme platforms and nanozymes for innovative biochemical applications
+- **Advancing** biofabrication and textile engineering through sustainable approaches
+- **Sharing** data, tools, and methods openly to accelerate progress in biomaterials science
 
 ## Our Impact
 We aim to develop sustainable materials, improve healthcare solutions, and advance technologies that work in harmony with the environment.
