@@ -2,6 +2,7 @@
 layout: single
 title: ""
 permalink: /welcome/
+wide: true
 ---
 # Welcome to the Soft and Complex Biomaterials Lab
 
