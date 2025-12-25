@@ -62,18 +62,21 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
+    - label: "Lund Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
+      url: "https://portal.research.lu.se/sv/persons/cedric-dicko/ "
+    #- label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
-    - label: "GitHub"
+    #- label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
+    #- label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Publications"
+      icon: "fas fa-graduation-cap"
+      URL: "https://scholar.google.com/citations?user=u_ZZuukAAAAJ&hl=en"
 
 footer:
   links:
