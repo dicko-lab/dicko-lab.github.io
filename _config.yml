@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: The Soft and Complex Biomaterials Lab
+email: cedric[dot]dicko[at]chem.lu.se
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -67,7 +67,7 @@ author:
       url: "https://portal.research.lu.se/sv/persons/cedric-dicko/ "
     - label: "Publications"
       icon: "fas fa-graduation-cap"
-      URL: "https://scholar.google.com/citations?user=u_ZZuukAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=u_ZZuukAAAAJ&hl=en"
     #- label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
@@ -77,19 +77,16 @@ author:
     #- label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-    - label: "Publications"
-      icon: "fas fa-graduation-cap"
-      URL: "https://scholar.google.com/citations?user=u_ZZuukAAAAJ&hl=en"
 
 footer:
   links:
-    - label: "Twitter"
+    #- label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
-    - label: "GitHub"
+    #- label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
+    #- label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
