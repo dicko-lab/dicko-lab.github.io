@@ -15,4 +15,4 @@ Chemical Centre
 Naturvetarvägen 24  
 22362 Lund, Sweden  
 
-**Google Maps:** [Open in Maps](https://www.google.com/maps/search/?api=1&query=Chemical+Centre+Naturvetarvägen+24+22362+Lund+Sweden)
+**Google Maps:** [Open in Maps](https://www.google.com/maps/search/?api=1&query=Chemical+Centre+Naturvetarvägen+14+22362+Lund+Sweden)
