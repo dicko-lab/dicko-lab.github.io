@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Cedric Dicko"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Understanding the structure, assembly, and mechanics of soft biomaterials to inspire next-generation materials."
   links:
     - label: "Lund Website"
       icon: "fas fa-fw fa-link"
