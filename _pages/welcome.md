@@ -5,8 +5,6 @@ permalink: /welcome/
 ---
 # Welcome to the Soft and Complex Biomaterials Lab
 
-We study the structure, assembly, and mechanics of soft natural materials.
-
 ## Why We Do What We Do
 We ask a simple but powerful question:
 *Can we use Nature to inspire and transform modern technology?*
