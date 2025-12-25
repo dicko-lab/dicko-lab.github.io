@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Research / Methods"
+title: ""
 permalink: /research/
 ---
 
