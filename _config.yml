@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Cedric Dicko"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Understanding the structure, assembly, and mechanics of soft biomaterials to inspire next-generation materials."
+  bio    : "We study the structure, assembly, and mechanics of soft biological materials to understand the processes behind nature’s designs and inspire next-generation materials."
   links:
     - label: "Lund Website"
       icon: "fas fa-fw fa-link"
