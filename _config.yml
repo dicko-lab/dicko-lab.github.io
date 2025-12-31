@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "The Soft and Complex Biomaterials Lab"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Nice_Logo1.png"
   bio    : "We study the structure, assembly, and mechanics of soft biological materials to understand the processes behind nature’s designs and inspire next-generation materials."
   links:
     - label: "Lund Website"
