@@ -5,6 +5,7 @@ permalink: /methods/
 ---
 
 We use a comprehensive suite of techniques to study structure, interactions, dynamics, and stability in biological and material systems. Our approach combines spectroscopy, scattering, thermal analysis, and advanced accessories to enable real-time, in situ measurements.
+
 **Spectroscopy**
 - Infrared (FTIR) – Transmission and ATR modes for chemical and structural analysis.
 - Raman – Vibrational insights in hydrated and solid samples.
@@ -28,5 +29,6 @@ Accessories: ATR, rapid mixing (stopped-flow), titration setups, and electrochem
 - Differential Scanning Fluorimetry (DSF)
 
 **Integrated & Hyphenated Approaches**
+
 We combine spectroscopy and scattering with rapid mixing, tensile test, electrochemical control, and titration to monitor structural and chemical changes in real time under dynamic conditions.
 
