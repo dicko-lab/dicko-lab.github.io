@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Soft and Complex Biomaterials Lab
+title: The Dicko Lab
 email: cedric[dot]dicko[at]chem.lu.se
 description: >-
   We study how nature builds functional materials by investigating the structure,
@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Cedric Dicko"
+  name   : "The Soft and Complex Biomaterials Lab"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "We study the structure, assembly, and mechanics of soft biological materials to understand the processes behind nature’s designs and inspire next-generation materials."
   links:
